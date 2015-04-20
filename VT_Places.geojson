@@ -40,3 +40,60 @@
     }
 ]
 }
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Forest City Trail Buckets",
+        "Description": "Great spot to stop in after hiking Camel's Hump. Park at the Forest City Parking area. Up and down river from this point, there are multiple swimming holes. Start at the Forest City Trail and cross over the bridge at about .4 miles. You'll find numerous good swimming and dunking holes on the left."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.91497230529785,
+          44.299342982499766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Bolton potholes",
+        "description": "5 waterfalls that each create their own pool of water. The last one also has a rocky beach. As one of the closest swimming holes to Burlington, it can be very popular on warm summer days. Head upstream to get away from the crowds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.87626266479492,
+          44.374484041299105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Lareau park",
+        "description": " This swimming hole offers a little something for everyone. Shallow waters near the shore are great for little ones learning how to tread water, while directly across the river, rocks provide a seven-foot-tall platform to leap into a 12-foot-deep water for the older, bolder crowd.  Bring a picnic and a blanket--it also boasts a sandy bank, grass picnic area, parking and toilet facilities. Or stop by American Flatbread for dinner afterwards. It's located just down the road."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.83328294754028,
+          44.17590228473993
+        ]
+      }
+    }
+  ]
+}
