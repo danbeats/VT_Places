@@ -37,7 +37,7 @@
           44.1272782929023
         ]
       }
-    }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -88,17 +88,12 @@
           44.17590228473993
         ]
       }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
     {
       "type": "Feature",
       "properties": {
         "marker-color": "#0080ff",
-        "marker-size": "small",
+        "marker-size": "medium",
         "marker-symbol": "swimming",
         "Name": "Lake Pleiad",
         "Description": "Half way up the Snow Bowl and accessible from the Long Trail, this is a beautiful (cold) remote lake! If you bring a paddle, a brave soul hiked his canoe up the mountain for the enjoyment of all"
@@ -115,7 +110,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0080ff",
-        "marker-size": "small",
+        "marker-size": "medium",
         "marker-symbol": "swimming",
         "Name": "Falls of Lana",
         "Description": "This beautiful waterfall is a short hike from the Silver Lake trail head. A great place for cliff jumping! "
@@ -132,7 +127,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0080ff",
-        "marker-size": "small",
+        "marker-size": "medium",
         "marker-symbol": "swimming",
         "Description": "Bring a soccer ball, a six pack, and your swim suits! Often packed on sunny Saturdays, the Lake Dunmore beach is only 20 minutes drive from Middlebury",
         "Name": "Lake Dunmore Beach"
@@ -149,7 +144,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0080ff",
-        "marker-size": "small",
+        "marker-size": "medium",
         "marker-symbol": "swimming",
         "Name": "Silver Lake",
         "Description": "Hike about 1.2 miles from the Silver Lake trailhead, this is a beautiful lake with a stunning view"
@@ -166,7 +161,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#0080ff",
-        "marker-size": "small",
+        "marker-size": "medium",
         "marker-symbol": "swimming",
         "Name": "Dorset Quarry",
         "Description": "A private quarry open to the public, with clear and cold water and great cliffs for jumping"
