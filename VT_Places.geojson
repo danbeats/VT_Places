@@ -91,3 +91,93 @@
     }
   ]
 }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "small",
+        "marker-symbol": "swimming",
+        "Name": "Lake Pleiad",
+        "Description": "Half way up the Snow Bowl and accessible from the Long Trail, this is a beautiful (cold) remote lake! If you bring a paddle, a brave soul hiked his canoe up the mountain for the enjoyment of all"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95833826065063,
+          43.93474214336051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "small",
+        "marker-symbol": "swimming",
+        "Name": "Falls of Lana",
+        "Description": "This beautiful waterfall is a short hike from the Silver Lake trail head. A great place for cliff jumping! "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.06161403656006,
+          43.906272149583124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "small",
+        "marker-symbol": "swimming",
+        "Description": "Bring a soccer ball, a six pack, and your swim suits! Often packed on sunny Saturdays, the Lake Dunmore beach is only 20 minutes drive from Middlebury",
+        "Name": "Lake Dunmore Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0697250366211,
+          43.90750891438528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "small",
+        "marker-symbol": "swimming",
+        "Name": "Silver Lake",
+        "Description": "Hike about 1.2 miles from the Silver Lake trailhead, this is a beautiful lake with a stunning view"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05129289627075,
+          43.8969492080831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "small",
+        "marker-symbol": "swimming",
+        "Name": "Dorset Quarry",
+        "Description": "A private quarry open to the public, with clear and cold water and great cliffs for jumping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08414459228516,
+          43.235823774305835
+        ]
+      }
+    }
+  ]
+}
