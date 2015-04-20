@@ -172,6 +172,125 @@
           43.235823774305835
         ]
       }
+     },
+      {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Otter Creek Gorge",
+        "Description": "Perfect for late-afternoon swims -- faces west and catches rays until sunset. Murky, fast-moving water through the Gorge, billowing out into a fat pool. The best cliff-jump around. Jump from anywhere on either side of the Gorge into the edge of the rapids. Get here via Beldon Falls Rd and the TAM. Cross the bridge and head north. Watch out for high water."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17669153213501,
+          44.05738412916817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Dog Team Road",
+        "Description": "Park right past the fence that says \"DO NOT PARK\" and follow the signs to the river path. Swim right away, trek up towards the falls (good for jumping), or follow the river path downriver to the Secret Beach. Jump from cliffs on the far bank or float down the bends of the river. Make it under the railroad tracks and around another bend and there is a rope swing into another deep pool. Beware of leeches and crawdads. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17310810089111,
+          44.06382565966988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Red Rocks",
+        "description": "Jump off any of the cliffs at the end of this peninsula into the deep depths of Lake Champlain Bring shoes if you want to do the 90 footer. There's a dynamite view of the lake/ mountains combo. Try to hitchhike on a motor boat - someone might take you tubing if you ask nicely."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23338806629181,
+          44.443941323105754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "Name": "Middlebury Gorge ",
+        "Description": "This is a great place to swim, with nice deep calm water, explore under the bridge! "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08560371398926,
+          43.969932120704414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "Name": "Pre-Gorge Hole",
+        "Description": "This smaller, secret spot is down the hill from the side of the road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0511212348938,
+          43.97425605306783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "Name": "Warren Falls",
+        "Description": "This incredible spot has several crystal clear waterfalls, a must see, drive over Lincoln Gap to get there!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.86355972290039,
+          44.09553737142512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "Name": "Tea Cups",
+        "Description": "This is such a fun, underused swimming hole. Similar to Warren Falls but without the vertical, its fairly close to Midd as well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.98211336135864,
+          44.08108828002487
+        ]
+      }
     }
   ]
 }
